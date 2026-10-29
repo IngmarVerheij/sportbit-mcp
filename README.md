@@ -1,4 +1,5 @@
 # SportBit MCP-server
+(dit is een eerste versie, heeft nog wat iteraties nodig)
 
 Een [MCP](https://modelcontextprotocol.io)-server voor [SportBit](https://www.sportbitmanager.nl/), het rooster- en inschrijfsysteem van veel CrossFit- en sportscholen. Hiermee kan Claude, of een andere MCP-client, het rooster bekijken, je inschrijven en afmelden voor trainingen, en je eigen trainingshistorie opvragen.
 
